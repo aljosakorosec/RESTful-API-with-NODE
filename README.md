@@ -34,11 +34,11 @@ This is a Node.js-based RESTful API for an e-commerce store, providing various f
 
 1. Clone the repository:
 2. In your command line run:
-   git clone <REPOSITORY_URL> (it clones the repository)
-   cd <PROJECT_DIRECTORY>
-   npm install(it installs all the necessary packages)
-   npm start(to start the server)
+   3. git clone <REPOSITORY_URL> (it clones the repository)
+   4. cd <PROJECT_DIRECTORY>
+   5. npm install(it installs all the necessary packages)
+   6. npm start(to start the server)
 
-3. Use postman for handling request
+7. Use postman for handling request
 
 
