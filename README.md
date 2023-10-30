@@ -34,4 +34,4 @@ This is a Node.js-based RESTful API for an e-commerce store, providing various f
 
 1. Clone the repository:
 
-   git clone https://github.com/aljosakorosec/e-commerce-api.git
+
